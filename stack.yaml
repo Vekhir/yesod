@@ -15,4 +15,6 @@ packages:
 - ./yesod-eventsource
 - ./yesod-websockets
 
-extra-deps: []
+extra-deps:
+- data-default-0.8.0.0
+- tls-2.1.2

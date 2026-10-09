@@ -1,5 +1,9 @@
 # ChangeLog for yesod
 
+## 1.6.2.4
+
+* Support `data-default` 0.8 [#1936](https://github.com/yesodweb/yesod/pull/1936)
+
 ## 1.6.2.3
 
 * Support `yesod-core` 1.7
